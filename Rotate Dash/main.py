@@ -1,8 +1,3 @@
-# Rotate Dash
-
-# Author : Prajjwal Pathak (pyguru)
-# Date : Thursday, 15 November, 2021
-
 import random
 import pygame
 
