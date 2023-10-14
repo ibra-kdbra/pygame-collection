@@ -1,16 +1,11 @@
 # Picture Sliding Puzzle
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
 Picture Sliding Puzzle is a simple implementation of 15 puzzle game. You have to solve the board by arranging the cells to form a picture.
 
 ![Alt text](app.png?raw=true "Picture Sliding Puzzle")
-
-## How to Download
-
-Download this project from here [Download Picture Sliding Puzzle](https://downgit.github.io/#/home?url=https://github.com/pyGuru123/Python-Games/tree/master/Picture%20Sliding%20Puzzle)
 
 ## Requirements
 
