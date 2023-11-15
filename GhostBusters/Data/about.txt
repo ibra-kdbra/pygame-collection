@@ -1,0 +1,2 @@
+This game is created by ibra-kdbra ( @pyGuru ). This is a small platformer game
+and the source code for this game can be found at
