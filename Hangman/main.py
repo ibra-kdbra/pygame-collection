@@ -27,7 +27,7 @@ GRAY = (168, 169, 169)
 # FONTS *************************************************************************
 
 alpha = pygame.font.SysFont("cursive", 21)
-hindi = pygame.font.Font("Fonts/Akshar Unicode.ttf", 18)
+arabic = pygame.font.Font("Fonts/NotoSansArabic-VariableFont_wdth,wght.ttf", 18)
 
 msg = alpha.render("Guess the word using the hint below", True, BLUE)
 
@@ -224,7 +224,7 @@ while running:
 			win.blit(char, (x1 + 3, y1 - 15))
 					
 		# Render Top message and Hints
-		hint = hindi.render(meaning, True, WHITE)
+		hint = arabic.render(meaning, True, WHITE)
 		win.blit(hint, (WIDTH // 2 - hint.get_width() // 2,50))
 		win.blit(msg, (WIDTH // 2 - msg.get_width() // 2, 25))
 		
