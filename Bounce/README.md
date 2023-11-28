@@ -1,6 +1,5 @@
 # Bounce
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
 Bounce is a clone of Nokia original bounce game made with python and pygame. I have tried to keep the maximum features of the original game in this version
@@ -31,7 +30,3 @@ Controls:
 * Right arrow key to go right
 * Up arrow key to jump
 * press ESC to escape the game
-
-## Contributing
-
-This game currently has a lot of bugs, if yiu think you can fix them, pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
