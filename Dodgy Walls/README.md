@@ -1,6 +1,5 @@
 # Dodgy Walls
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
 Dodgy Walls is a simple endless hypercasual arcade game made with pygame.
@@ -10,6 +9,7 @@ Dodgy Walls is a simple endless hypercasual arcade game made with pygame.
 ## Requirements
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install following packages :-
+
 * Pygame
 
 ```bash
@@ -23,11 +23,6 @@ pygame is already installed in pydroid3, no installation required.
 Navigate and click main.py to open the game, click anywhere to start the game. The objective of the game is to create high score by collecting white balls without touching the incoming bars/walls.
 
 Controls:
+
 * Tap anywhere to change the direction.
 * press ESC to escape the game
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
