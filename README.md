@@ -108,25 +108,6 @@ and pygame library.
  >
  > Tic Tac Toe game written using tkinter library.
 
-***
-
-## Games made on / for pyrdoid3
-
-These games are specifically made and optimised for pydroid3
-
-* [Aeroblasters](https://github.com/ibra-kdbra/pygame-collection/tree/main/Aeroblasters)
-* [Arc Dash](https://github.com/ibra-kdbra/pygame-collection/tree/main/Arc%20Dash)
-* [Cave Story](https://github.com/ibra-kdbra/pygame-collection/tree/main/Cave%20Story)
-* [Connected](https://github.com/ibra-kdbra/pygame-collection/tree/main/Connected)
-* [Dodgy Walls](https://github.com/ibra-kdbra/pygame-collection/tree/main/Dodgy%20Walls)
-* [Egg Catching Game](https://github.com/ibra-kdbra/pygame-collection/tree/main/Egg%20Catching%20Game)
-* [HyperTile Dash](https://github.com/ibra-kdbra/pygame-collection/tree/main/HyperTile%20Dash)
-* [Flappy Bird](https://github.com/ibra-kdbra/pygame-collection/tree/main/Flappy%20Bird)
-* [Qircle Rush](https://github.com/ibra-kdbra/pygame-collection/tree/main/Qircle%20Rush)
-* [Rotate Dash](https://github.com/ibra-kdbra/pygame-collection/tree/main/Rotate%20Dash)
-
-***
-
 ## Tools & Utilities
 
 * ### SpriteSheet Cutter
