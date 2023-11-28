@@ -1,6 +1,5 @@
 # Cave Story
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
 Cave story is a cave based adventure platformer game made with pygame. The game is specifically meant to run on pydroid3 on android, It may not work properly in desktop.
@@ -12,6 +11,7 @@ Install pydroid3 on Android from here : [pydroid3 playstore](https://play.google
 ## Requirements
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install following packages :-
+
 * Pygame
 
 ```bash
@@ -27,10 +27,5 @@ Navigate and click main.py to open the game in pydroid3, click start to start th
 Currently only 3 levels are available, more levels can be created using the level_editor.py file
 
 Controls:
+
 * Controller is avaiable at bottom.
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
