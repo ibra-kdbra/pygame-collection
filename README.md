@@ -28,10 +28,6 @@ and pygame library.
  >
  > A car racing game made on pydroid3.
 
-* ### [Cave Story](https://github.com/ibra-kdbra/pygame-collection/tree/main/Cave%20Story)
- >
- > A cave adventure based 2d platformer game made on pydroid3.
-
 * ### [Connected](https://github.com/ibra-kdbra/pygame-collection/tree/main/Connected)
  >
  > Connected is a simple endless hypercasual game.
