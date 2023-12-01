@@ -26,7 +26,7 @@ pygame is already installed in pydroid3, no installation required.
 
 ## Usage
 
-Navigate and click main.py to run the game. Then tap on the screen to start playing the game. The objective of the game is to destroy as much enemy planes or choppers as possible without getting destroyed. 
+Navigate and click main.py to run the game. Then tap on the screen to start playing the game. The objective of the game is to destroy as much enemy planes or choppers as possible without getting destroyed.
 
 Controls:
 
