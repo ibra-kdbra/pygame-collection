@@ -1,6 +1,5 @@
 # Picture Sliding Puzzle
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
 Picture Sliding Puzzle is a simple implementation of 15 puzzle game. You have to solve the board by arranging the cells to form a picture.
@@ -17,11 +16,6 @@ Double click the game.py to open the game, The objective of the game is to solve
 the timer and move counter will start updating.
 
 Controls:
+
 * Use Left, Right, Up, Down arrow keys to move the empty cell in left, right, up, down direction respectively.
 * You can also use the mouse to swap between the empty cell and nearest cell that you click.
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
