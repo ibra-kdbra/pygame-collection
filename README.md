@@ -1,8 +1,6 @@
 # Python Games
 
-
-<img src="./project.svg" alt="Python Games" /> 
-<img src="https://forthebadge.com/images/badges/check-it-out.svg" alt="Check it out!" />
+<img src="./project.svg" alt="Python Games" />
 
 This repository is a treasure trove of small yet engaging Python games, offering a delightful playground for programmers and gamers alike. Whether you're a seasoned developer or just starting your Python journey, these games provide a fun and interactive way to hone your skills while creating something awesome.
 
@@ -27,6 +25,7 @@ Dive into the diverse world of Python games offered here:
 - [**Dots & Boxes:**](./Dots%20&%20Boxes/) Engage in a classic strategy game with a fresh twist, implemented using the power of Pygame.
 - [**Flappy Bird:**](./Flappy%20Bird/) Experience a faithful recreation of the iconic Flappy Bird game, optimized for mobile devices.
 - [**GhostBusters:**](./GhostBusters/) Embark on a thrilling side-scrolling platformer adventure filled with parallax effects.
+- [**Hex Dash:**](./Hex%20Dash/) Dive into the infinite world of Hexagon Dash with this hypercasual arcade game.
 - [**HyperTile Dash:**](./HyperTile%20Dash/) Test your reflexes in this hypercasual game where you strive to hit targets in an endless stream.
 - [**Jungle Dash:**](./Jungle%20Dash/) Explore a vibrant 2D platformer world with challenging levels.
 - [**Memory Puzzle:**](./Memory%20Puzzle/) Challenge your memory skills with this delightful fruit-themed puzzle game.
@@ -47,6 +46,6 @@ Dive into the diverse world of Python games offered here:
 
 Beyond the games, this repository offers valuable tools to enhance your game development experience:
 
-- [**SpriteSheet Cutter:**](https://github.com/ibra-kdbra/pygame-collection/tree/main/SpriteSheet%20Cutter) Effortlessly cut spritesheets into individual sprites, streamlining your workflow.
+- [**SpriteSheet Cutter:**](./SpriteSheet%20Cutter/) Effortlessly cut spritesheets into individual sprites, streamlining your workflow.
 
-- [**Level Designer:**](https://github.com/ibra-kdbra/pygame-collection/tree/main/Level%20Designer) Design engaging levels that can be used with your games.
+- [**Level Designer:**](./Level%20Designer/) Design engaging levels that can be used with your games.
