@@ -1,6 +1,6 @@
 # Python Games
 
-<img src="./project.svg" alt="Python Games" />
+<img src="assets/project.svg" alt="Python Games" />
 
 This repository is a treasure trove of small yet engaging Python games, offering a delightful playground for programmers and gamers alike. Whether you're a seasoned developer or just starting your Python journey, these games provide a fun and interactive way to hone your skills while creating something awesome.
 
