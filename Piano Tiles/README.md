@@ -1,6 +1,6 @@
 # Piano Tiles
 
-<img src="../project.svg" alt="Python Games" /> 
+
 
 Piano Tiles is a piano tiles musical game implementaion in python and pygame.
 

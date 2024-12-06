@@ -1,6 +1,6 @@
 # Hex Dash
 
-<img src="../project.svg" alt="Python Games" /> 
+
 
 Hex Dash is a simple hexagon based endless game made with pygame. The objective of the game is to touch the parts without touching the bomb particles.
 

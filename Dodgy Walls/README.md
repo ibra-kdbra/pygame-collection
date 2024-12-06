@@ -1,6 +1,6 @@
 # Dodgy Walls
 
-<img src="../project.svg" alt="Python Games" /> 
+
 
 Dodgy Walls is a simple endless hypercasual arcade game made with pygame.
 

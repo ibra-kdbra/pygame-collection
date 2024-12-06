@@ -1,6 +1,6 @@
 # Dino Run
 
-<img src="../project.svg" alt="Python Games" /> 
+
 
 Dino Run is simple modified version of Google Chrome dino made with python and pygame.
 

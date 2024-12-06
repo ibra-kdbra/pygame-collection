@@ -1,6 +1,6 @@
 # Qircle Rush
 
-<img src="../project.svg" alt="Python Games" /> 
+
 
 Qircle Rush is a simple endless hypercasual arcade game made with pygame.
 

@@ -1,6 +1,6 @@
 # Car Dodge 2D
 
-<img src="../project.svg" alt="Python Games" /> 
+
 
 Car Dodge 2D is a simple car & obstacle dodging game made with pygame. The game is specifically meant to run on pydroid3 on android, It may not work properly in desktop.
 

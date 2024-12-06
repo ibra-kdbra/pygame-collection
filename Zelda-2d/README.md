@@ -1,6 +1,6 @@
 # Zelda 2D
 
-<img src="../project.svg" alt="Python Games" /> 
+
 
 Zelda-2d is a simple 2d game to kill the enemies and handle them with weapons and magic.
 

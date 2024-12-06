@@ -1,6 +1,6 @@
 # Pong
 
-<img src="../project.svg" alt="Python Games" /> 
+
 
 Pong is a simple ping pong game made using turtle library.
 

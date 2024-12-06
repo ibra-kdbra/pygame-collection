@@ -1,7 +1,7 @@
 
 # Tic Tac Toe
 
-<img src="../project.svg" alt="Python Games" /> 
+
 
 Tic Tac Toe is a simple tic tac toe game made using tkinter library.
 

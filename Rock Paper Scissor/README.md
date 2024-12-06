@@ -1,6 +1,6 @@
 # Rock Paper Scissor
 
-<img src="../project.svg" alt="Python Games" /> 
+
 
 Rock Paper Scissor is a simple Rock Paper Scissor game made using tkinter library.
 

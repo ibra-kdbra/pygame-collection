@@ -1,6 +1,6 @@
 # GhostBusters
 
-<img src="../project.svg" alt="Python Games" /> 
+
 
 GhostBusters is a small platformer game made with pygame. The game uses tiles based physics along with scrolling and parallax animations.
 

@@ -1,6 +1,6 @@
 # Flappy Bird
 
-<img src="../project.svg" alt="Python Games" /> 
+
 
 Flappy Bird is an implementation of the famous flappy bird game in pygame. The game is specifically meant to run on pydroid3 on android, It may not work properly in desktop.
 

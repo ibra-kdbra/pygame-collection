@@ -1,6 +1,6 @@
 # Jungle Dash
 
-<img src="../project.svg" alt="Python Games" /> 
+
 
 Jungle Dash is a simple 2D platformer game made with python and pygame.
 

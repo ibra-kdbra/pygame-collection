@@ -1,6 +1,6 @@
 # Connected
 
-<img src="../project.svg" alt="Python Games" /> 
+
 
 Connected is a simple endless hypercasual arcade game made with pygame.
 

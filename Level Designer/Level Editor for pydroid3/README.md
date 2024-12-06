@@ -1,6 +1,6 @@
 # Level Designer for pydroid3
 
-<img src="../project.svg" alt="Python Games" /> 
+
 
 This is a simple python script to design levels for your games on pydroid3. It works best when your coding vertical non-scrollable platformer games using pydroid3.
 

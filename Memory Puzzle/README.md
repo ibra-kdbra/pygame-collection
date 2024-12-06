@@ -1,6 +1,6 @@
 # Fruit Memory Puzzle
 
-<img src="../project.svg" alt="Python Games" /> 
+
 
 Fruit Memory Puzzle is a simple puzzle game where the objective is to clear all the cards by matching two cards of the same type.
 

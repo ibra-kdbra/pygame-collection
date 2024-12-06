@@ -1,6 +1,6 @@
 # Arc Dash
 
-<img src="../project.svg" alt="Python Games" /> 
+
 
 Arc Dash is a simple endless target based hypercasual arcade game made with pygame.
 

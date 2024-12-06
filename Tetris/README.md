@@ -1,6 +1,6 @@
 # Tetris
 
-<img src="../project.svg" alt="Python Games" /> 
+
 
 Tetris is a simple 2D Tetris game made with python and pygame.
 

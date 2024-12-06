@@ -1,6 +1,6 @@
 # Snake
 
-<img src="../project.svg" alt="Python Games" /> 
+
 
 Snake is the implementation of the Nokia's classic snake game made with pygame.
 <!-- <p align='center'>

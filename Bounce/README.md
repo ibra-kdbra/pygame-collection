@@ -1,6 +1,6 @@
 # Bounce
 
-<img src="../project.svg" alt="Python Games" /> 
+
 
 Bounce is a clone of Nokia original bounce game made with python and pygame. I have tried to keep the maximum features of the original game in this version
 
