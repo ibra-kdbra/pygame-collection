@@ -1,7 +1,5 @@
 # Connected
 
-
-
 Connected is a simple endless hypercasual arcade game made with pygame.
 
 <p align='center'>
